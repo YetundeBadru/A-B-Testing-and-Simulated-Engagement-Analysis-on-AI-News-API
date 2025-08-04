@@ -1,6 +1,6 @@
-# A-B-Testing-and-Simulated-Engagement-Analysis-on-AI-News-API
-### Which Headline Works Better?  
+# A/B-Testing-and-Simulated-Engagement-Analysis-on-Artificial Intelligence-News-API 
 ### A/B Testing and Simulated Engagement Analysis on AI News Headlines
+### Which Headline Works Better? 
 
 ---
 
@@ -90,19 +90,38 @@ The methodology includes:
 The findings provide actionable insights into how publication timing can be optimized to influence content engagement, offering a foundational framework for a data-driven content strategy.
 
 
-## How to Run  
-1. Clone this repository  
-2. Install required packages:  
-```bash
-   <<< pip install pandas matplotlib seaborn newsapi-python >>>
 
+---
 
+## How to Run
 
- Documentation
+### 1. Clone the repository
+    git clone https://github.com/<your-username>/<your-repo-name>.git
+
+### 2. Install required packages:  
+    pip install pandas matplotlib seaborn newsapi-python
+
+### 3. Launch the notebook
+    jupyter notebook YETUNDE_BADRU.ipynb
+
+---
+
+## Documentation
+
 Full project documentation with background, objectives, methods, results, and discussion is available within the notebook and linked below:
-🔗 Project Documentation (Replace with your final GitHub URL)
+🔗 [Project Documentation](https://docs.google.com/document/d/1u6p3Wz9RhlhXLqXud1bPUpJqLWxASpeMN8Zn4HwEEnk/edit?usp=sharing)
 
-👩🏽‍💻 Author
+---
+
+## Acknowledgements
+
+- Thanks to NewsAPI for providing access to reliable news data.
+
+- Guided by a Data Science mentorship program and inspired by real-world A/B testing methodologies.
+
+---
+
+## Author
 Yetunde Badru
 Data Scientist | AI/ML Enthusiast
 📫 LinkedIn (Optional)
