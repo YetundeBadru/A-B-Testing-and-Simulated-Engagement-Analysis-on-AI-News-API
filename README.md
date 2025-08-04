@@ -109,6 +109,7 @@ The findings provide actionable insights into how publication timing can be opti
 ## Documentation
 
 Full project documentation with background, objectives, methods, results, and discussion is available within the notebook and linked below:
+
 🔗 [Project Documentation](https://docs.google.com/document/d/1u6p3Wz9RhlhXLqXud1bPUpJqLWxASpeMN8Zn4HwEEnk/edit?usp=sharing)
 
 ---
