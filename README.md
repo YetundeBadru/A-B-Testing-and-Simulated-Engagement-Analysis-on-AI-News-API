@@ -1,4 +1,4 @@
-# A/B-Testing-and-Simulated-Engagement-Analysis-on-Artificial Intelligence-News-API 
+# A/B Testing and Simulated Engagement Analysis on Artificial Intelligence News-API 
 ### A/B Testing and Simulated Engagement Analysis on AI News Headlines
 ### Which Headline Works Better? 
 
@@ -123,6 +123,8 @@ Full project documentation with background, objectives, methods, results, and di
 ---
 
 ## Author
-Yetunde Badru
-Data Scientist | AI/ML Enthusiast
-📫 LinkedIn (Optional)
+Yetunde Badru Data Scientist | AI/ML| AWS Cloud Practitioner
+
+LinkedIn: www.linkedin.com/in/yetundebarakbadru
+
+Email: yetundebarakbadru@gmail.com
